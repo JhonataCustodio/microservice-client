@@ -1,4 +1,4 @@
-package uol.compass.msclient.domain;
+package uol.compass.msclient.domain.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
